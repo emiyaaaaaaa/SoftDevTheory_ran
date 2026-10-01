@@ -13,11 +13,11 @@ When adding a destination, please include:
 Destination name
 
 # Listing
-1. Nara Todaiji
+1. Wakayama Marina City
 2. Kobe Port Night View
 3. Minoh Falls
 4. Hiroshima - so much filled with history !!
-5.
+5. Nara Todaiji
 6. Sapporo
 7.
 8.
