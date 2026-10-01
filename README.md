@@ -14,9 +14,9 @@ Destination name
 
 # Listing
 1. Nara Todaiji
-2. Minoh Falls
-3. 
-4.
+2. Kobe Port Night View
+3. Minoh Falls
+4. Hiroshima - so much filled with history !!
 5.
 6. Sapporo
 7.
