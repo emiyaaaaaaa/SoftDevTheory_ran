@@ -18,7 +18,7 @@ Destination name
 3. Minoh Falls
 4. Hiroshima - so much filled with history !!
 5.
-6.
+6. Sapporo
 7.
 8.
 9.
