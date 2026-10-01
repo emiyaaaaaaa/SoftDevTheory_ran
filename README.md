@@ -15,10 +15,10 @@ Destination name
 # Listing
 1. Nara Todaiji
 2. Minoh Falls
-3.
+3. 
 4.
 5.
-6.
+6. Sapporo
 7.
 8.
 9.
