@@ -14,7 +14,7 @@ Destination name
 
 # Listing
 1. Nara Todaiji
-2.
+2. Kobe Port Night View
 3.
 4.
 5.
