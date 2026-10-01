@@ -6,7 +6,7 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 
 # Listing
 
-## Top Ten Underrated Claude Code Commands
+## Top Ten Claude Code Commands
 
 1. `/btw`
 2. `/rewind`
