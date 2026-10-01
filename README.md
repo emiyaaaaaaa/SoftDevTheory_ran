@@ -14,8 +14,8 @@ Destination name
 
 # Listing
 1. Nara Todaiji
-2. Minoh Falls
-3.
+2. Kobe Port Night View
+3. Minoh Falls
 4.
 5.
 6.
