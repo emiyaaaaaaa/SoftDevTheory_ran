@@ -17,7 +17,7 @@ Destination name
 2. Kobe Port Night View
 3. Minoh Falls
 4. Hiroshima - so much filled with history !!
-5.
+5.Fuji Yama
 6. Sapporo
 7.
 8.
