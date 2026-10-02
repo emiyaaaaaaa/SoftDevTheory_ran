@@ -19,7 +19,7 @@ Destination name
 4. Hiroshima - so much filled with history !!
 5. Nara Todaiji
 6. Sapporo
-7.
+7.Fuji Yama
 8.
 9.
 10.
