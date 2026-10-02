@@ -19,7 +19,7 @@ Destination name
 4. Hiroshima - so much filled with history !!
 5.Fuji Yama
 6. Sapporo
-7.
+7. Hita City - Oita Prefecture 
 8.
 9.
 10.
