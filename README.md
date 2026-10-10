@@ -17,9 +17,9 @@ Destination name
 2. Kobe Port Night View
 3. Minoh Falls
 4. Hiroshima - so much filled with history !!
-5. Nara Todaiji
-6. Sapporo
-7.Fuji Yama
-8.Hita City - Oita Prefecture 
-9.
+5. Okinawa
+6. Nara Todaiji
+7. Sapporo
+8.Fuji Yama
+9.Hita City - Oita Prefecture 
 10.
