@@ -20,6 +20,6 @@ Destination name
 5. Okinawa
 6. Nara Todaiji
 7. Sapporo
-8.Fuji Yama
-9.Hita City - Oita Prefecture 
+8. Fuji Yama
+9. Hita City - Oita Prefecture 
 10.
